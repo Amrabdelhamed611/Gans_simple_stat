@@ -14,6 +14,6 @@ also attached :
 ## NOTEBOOKS :
 * **Simple_linear_GAN :** implement gans with linear layers only.
 * **Simple_linear_with_Batch_GAN:** implement gans with linear layers and Batch normlization.
-* **Simple_DCGAN:** implement gans with conv layers and Batch normlization.
+* **DCGAN:** implement gans with conv layers and Batch normlization.
 * **Spectral-Normalization-DCGAN:** implement gans with conv layers and Spectral Normalization.
 * **Spectral-Normalization implementation and testing:** implementation of Spectral Normalization using weights wrapper layer. and compare my implementation results with the frame work ready made function.
